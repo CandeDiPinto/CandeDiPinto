@@ -9,15 +9,7 @@ este mundo!
 
 TRABAJO CON 👨‍💻
 
-Javascript (ES6)
-Node.js
-Express.js
-React 
-Redux
-PostgreSQL
-Typescript
-CSS
-Material UI
+Javascript(ES6)|Node.js|Express.js|React|Redux|PostgreSQL|Typescript|CSS|MaterialUI
 
  
 
