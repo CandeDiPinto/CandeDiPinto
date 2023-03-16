@@ -2,6 +2,6 @@
 
 Me considero una persona proactiva, simpática con muchas ganas de trabajar en equipo. 
 
-🔭 Actualmente en la mira de algún trabajo.
+🔭 Actualmente en la mira de algún trabajo
 📫 Cómo contactarse conmigo candelaria.dipinto@gmail.com
 
