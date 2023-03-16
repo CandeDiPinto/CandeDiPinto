@@ -5,7 +5,7 @@ Mi propósito es seguir escalando a nivel conocimientos, profundizar y adaptarme
 este mundo!
 
 🔭 Actualmente en la mira de algún trabajo
-📫 Cómo contactarse conmigo candelaria.dipinto@gmail.com
+📫 Cómo contactarse conmigo candelaria.dipinto@gmail.com | https://www.linkedin.com/in/candelariadipinto
 
 TRABAJO CON 👨‍💻
 
