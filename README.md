@@ -4,7 +4,8 @@ Me considero una persona proactiva, responsable, simpática y con muchas ganas d
 Mi propósito es seguir escalando a nivel conocimientos, profundizar y adaptarme a los cambios que ofrece
 este mundo!
 
-🔭 Actualmente en la mira de algún trabajo
+🔭 Actualmente en la mira de algún trabajo 
+
 📫 Cómo contactarse conmigo candelaria.dipinto@gmail.com | https://www.linkedin.com/in/candelariadipinto
 
 TRABAJO CON 👨‍💻
