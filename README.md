@@ -7,6 +7,17 @@ este mundo!
 🔭 Actualmente en la mira de algún trabajo
 📫 Cómo contactarse conmigo candelaria.dipinto@gmail.com
 
-TRABAJO CON
+TRABAJO CON 👨‍💻
+
+Javascript (ES6)
+Node.js
+Express.js
+React 
+Redux
+PostgreSQL
+Typescript
+CSS
+Material UI
+
  
 
